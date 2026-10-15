@@ -26,23 +26,23 @@ Features:
     Polyline Feature,
     Point Feature containing Start_Point_ID, End_Point_ID, Start_Point_Name, End_Point_Name.
 
-Requirements
-  ArcGIS Pro
-  ArcPy
-  Python 3.x (ArcGIS Pro environment)
+Requirements:
+  ArcGIS Pro,
+  ArcPy,
+  Python 3.x (ArcGIS Pro environment).
   
-Limitations
+Limitations:
   Point features must exist at the exact start and end coordinates of the polyline.
   Coordinate systems should match between datasets.
   Does not currently support spatial tolerance matching.
   
-Future Enhancements
-  User-defined search tolerance
-  Nearest-point matching
-  Support for multipart polylines
-  ArcGIS Pro toolbox interface (.pyt)
+Future Enhancements:
+  User-defined search tolerance,
+  Nearest-point matching,
+  Support for multipart polylines,
+  ArcGIS Pro toolbox interface (.pyt).
   
-Author
-  Unisha Ghimire
+Author:
+  Unisha Ghimire.
 
     
